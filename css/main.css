@@ -1,6 +1,6 @@
 /* Escribe acá tus estilos*/
 
-body {color: black; font-family: Verdana; background-image: url("https://previews.123rf.com/images/vasvas/vasvas1404/vasvas140400060/27869032-tea-time-background-with-text-teapot-and-cup-Stock-Vector-party.jpg"); background-position:top;}
+body {color: black; font-family:arial; background-image: url("https://previews.123rf.com/images/vasvas/vasvas1404/vasvas140400060/27869032-tea-time-background-with-text-teapot-and-cup-Stock-Vector-party.jpg"); background-position:top; background-size: 1000px 700px; background-repeat:no-repeat; background-position: right;}
      
     
 button, input, select, textarea {
