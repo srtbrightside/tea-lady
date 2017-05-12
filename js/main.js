@@ -1,6 +1,6 @@
-var nombre = document.getElementById("nombre");
-var email = document.getElementById("email");
-var direccion = document.getElementById("dirección");
-var telefono = document.getElementById("telefono");
 
-var 
+function mostrarData(){
+    var valorInput = document.getElementById("formulario").value;
+    var addDato = document.getElementsByClassName("contenedor");
+    addDato[0].innerHTML + "<ul><li>" + valorInput + "</ul></li>";
+}

@@ -1,1 +1,43 @@
 /* Escribe acá tus estilos*/
+
+body {color: black; font-family: Verdana; background-image: url("https://previews.123rf.com/images/vasvas/vasvas1404/vasvas140400060/27869032-tea-time-background-with-text-teapot-and-cup-Stock-Vector-party.jpg"); background-position:top;}
+     
+    
+button, input, select, textarea {
+  font-family : inherit;
+  font-size   : 100%;
+}
+
+form
+{
+   float:left;
+   padding:2px;
+   cursor:pointer;
+   display:block;
+   width:290px;
+   margin:auto;
+   text-align:left;
+}
+legend
+{
+   font-family: "Trebuchet MS", Geneva, Arial, Helvetica, sans-serif;
+   font-weight: bold;
+}
+label
+{
+   display: block;
+   padding:2px;
+   margin:2px;
+   cursor:pointer;
+}
+
+input,select{
+   margin:2px; 
+   font-family: "Trebuchet MS", Geneva, Arial, Helvetica, sans-serif;
+   font-size: 12px;
+   display: block;
+}
+.noblck
+{
+   display: inline;
+}
